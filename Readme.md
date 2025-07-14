@@ -2,6 +2,11 @@
 
 A real-time hand gesture recognition system built with Flask, OpenCV, and MediaPipe that can control robotic actions through hand gestures detected via webcam or uploaded images. This system is designed to be easily integrated with various robotic platforms for intuitive human-robot interaction.
 
+<img width="1252" height="944" alt="Screenshot 2025-07-14 124555" src="https://github.com/user-attachments/assets/2b4f66f0-fa64-4b47-9235-cf461b23df54" />
+<img width="1293" height="736" alt="Screenshot 2025-07-14 124635" src="https://github.com/user-attachments/assets/408a9c37-700a-49c0-8d9f-ecd033375b1b" />
+<img width="1283" height="741" alt="Screenshot 2025-07-14 124710" src="https://github.com/user-attachments/assets/8fee4909-b515-4c32-9d37-92253d1b6bb8" />
+
+
 ## ✨ Features
 
 - **Real-time Gesture Detection**: Live webcam feed with instant gesture recognition
@@ -34,13 +39,13 @@ A real-time hand gesture recognition system built with Flask, OpenCV, and MediaP
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone  https://github.com/YujiItaori/hand_gesture_robot.git
 cd hand-gesture-control
 ```
 
 2. **Install required dependencies**
 ```bash
-pip install flask opencv-python mediapipe
+pip install -r requirements.txt
 ```
 
 3. **Create necessary directories**
