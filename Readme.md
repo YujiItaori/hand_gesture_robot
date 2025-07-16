@@ -2,9 +2,7 @@
 
 A real-time hand gesture recognition system built with Flask, OpenCV, and MediaPipe that can control robotic actions through hand gestures detected via webcam or uploaded images. This system is designed to be easily integrated with various robotic platforms for intuitive human-robot interaction.
 
-<img width="1252" height="944" alt="Screenshot 2025-07-14 124555" src="https://github.com/user-attachments/assets/2b4f66f0-fa64-4b47-9235-cf461b23df54" />
-<img width="1293" height="736" alt="Screenshot 2025-07-14 124635" src="https://github.com/user-attachments/assets/408a9c37-700a-49c0-8d9f-ecd033375b1b" />
-<img width="1283" height="741" alt="Screenshot 2025-07-14 124710" src="https://github.com/user-attachments/assets/8fee4909-b515-4c32-9d37-92253d1b6bb8" />
+
 
 
 ## ✨ Features
@@ -349,4 +347,18 @@ For issues and questions:
 
 **Ready to revolutionize human-robot interaction! 🤖👋**
 
+---
+
+⭐ Star this repository if you find it helpful! ⭐
+
+"The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it." - Mark Weiser
+
+---
+
 *This system bridges the gap between human gestures and robotic actions, making robot control more intuitive and accessible for everyone.*
+
+---
+
+<img width="1252" height="944" alt="Screenshot 2025-07-14 124555" src="https://github.com/user-attachments/assets/2b4f66f0-fa64-4b47-9235-cf461b23df54" />
+<img width="1293" height="736" alt="Screenshot 2025-07-14 124635" src="https://github.com/user-attachments/assets/408a9c37-700a-49c0-8d9f-ecd033375b1b" />
+<img width="1283" height="741" alt="Screenshot 2025-07-14 124710" src="https://github.com/user-attachments/assets/8fee4909-b515-4c32-9d37-92253d1b6bb8" />
